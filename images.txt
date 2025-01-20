@@ -3,5 +3,7 @@ nginx
 docker:27.4.1-dind
 snowdreamtech/frpc:alpine3.20
 snowdreamtech/frps:alpine3.20
+openjdk:17
+registry.cn-hangzhou.aliyuncs.com/risen-dev/risen-jdk:17
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
