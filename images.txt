@@ -1,3 +1,4 @@
+savatar101/omniparse:0.1
 nginx
 #支持私库
 docker:27.4.1-dind
