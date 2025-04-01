@@ -1,4 +1,4 @@
-jenkins/jenkins:latest-jdk17
+jenkins/jenkins:2.503
 #easysoft/zentao:21.5
 #savatar101/omniparse:0.1
 #nginx
