@@ -1,4 +1,4 @@
-node:23.11.0
+#node:23.11.0
 #nginx:mainline-alpine3.21-slim
 #php:8.3.20-fpm-alpine3.20
 #jenkins/inbound-agent:jdk21
@@ -13,3 +13,4 @@ node:23.11.0
 #registry.cn-hangzhou.aliyuncs.com/risen-dev/risen-jdk:17
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+python:3.14.0a7
