@@ -1,8 +1,9 @@
-jenkins/inbound-agent:jdk21
+nginx:mainline-alpine3.20-slim
+php:8.1.31-fpm-alpine
+#jenkins/inbound-agent:jdk21
 #jenkins/jenkins:2.503-jdk21
 #easysoft/zentao:21.5
 #savatar101/omniparse:0.1
-#nginx
 #支持私库
 #docker:27.4.1-dind
 #snowdreamtech/frpc:alpine3.20
