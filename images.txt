@@ -13,4 +13,9 @@
 #registry.cn-hangzhou.aliyuncs.com/risen-dev/risen-jdk:17
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-python:3.14.0a7
+#python:3.14.0a7
+mysql:9.3.0
+zabbix/zabbix-java-gateway:alpine-7.0-latest
+zabbix/zabbix-server-mysql:alpine-7.0-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
+zabbix/zabbix-agent:alpine-7.0.1
