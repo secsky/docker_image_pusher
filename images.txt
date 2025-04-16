@@ -14,8 +14,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:3.14.0a7
-mysql:9.3.0
-zabbix/zabbix-java-gateway:alpine-7.0-latest
-zabbix/zabbix-server-mysql:alpine-7.0-latest
-zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
-zabbix/zabbix-agent:alpine-7.0.1
+zabbix/zabbix-web-nginx-mysql:alpine-7.2-latest
+zabbix/zabbix-server-mysql:alpine-7.2-latest
+mysql:8.4-oracle
+busybox:latest
