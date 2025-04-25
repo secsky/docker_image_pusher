@@ -19,4 +19,5 @@
 #mysql:8.4-oracle
 #busybox:latest
 #easysoft/zentao:21.6
-fauria/vsftpd
+#fauria/vsftpd:latest
+node:22-alpine
