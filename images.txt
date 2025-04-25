@@ -18,4 +18,5 @@
 #zabbix/zabbix-server-mysql:alpine-7.2-latest
 #mysql:8.4-oracle
 #busybox:latest
-easysoft/zentao:21.6
+#easysoft/zentao:21.6
+fauria/vsftpd
