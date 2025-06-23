@@ -1,8 +1,10 @@
 #node:23.11.0
 #nginx:mainline-alpine3.21-slim
 #php:8.3.20-fpm-alpine3.20
+### jenkins
 #jenkins/inbound-agent:jdk21
 #jenkins/jenkins:2.505-jdk21
+jenkins/jenkins:2.515-jdk21
 #easysoft/zentao:21.5
 #savatar101/omniparse:0.1
 #支持私库
@@ -20,4 +22,4 @@
 #busybox:latest
 #easysoft/zentao:21.6
 #fauria/vsftpd:latest
-node:22-alpine
+#node:22-alpine
