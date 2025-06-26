@@ -4,7 +4,7 @@
 ### jenkins
 #jenkins/inbound-agent:jdk21
 #jenkins/jenkins:2.505-jdk21
-jenkins/jenkins:2.515-jdk21
+#jenkins/jenkins:2.515-jdk21
 #easysoft/zentao:21.5
 #savatar101/omniparse:0.1
 #支持私库
@@ -23,3 +23,7 @@ jenkins/jenkins:2.515-jdk21
 #easysoft/zentao:21.6
 #fauria/vsftpd:latest
 #node:22-alpine
+
+#solarqube
+sonarqube:9.9.8-community
+postgres:13
