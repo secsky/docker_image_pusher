@@ -26,5 +26,5 @@
 
 #solarqube
 #sonarqube:9.9.8-community
-25.6.0.109173-community
+sonarqube:25.6.0.109173-community
 #postgres:13
